@@ -1,0 +1,9 @@
+C:\Users\Mateusz\Desktop\Enigma\Enigma.Logic\bin\Debug\netstandard2.0\Enigma.Logic.deps.json
+C:\Users\Mateusz\Desktop\Enigma\Enigma.Logic\bin\Debug\netstandard2.0\Enigma.Logic.dll
+C:\Users\Mateusz\Desktop\Enigma\Enigma.Logic\bin\Debug\netstandard2.0\Enigma.Logic.pdb
+C:\Users\Mateusz\Desktop\Enigma\Enigma.Logic\obj\Debug\netstandard2.0\Enigma.Logic.csprojAssemblyReference.cache
+C:\Users\Mateusz\Desktop\Enigma\Enigma.Logic\obj\Debug\netstandard2.0\Enigma.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Desktop\Enigma\Enigma.Logic\obj\Debug\netstandard2.0\Enigma.Logic.AssemblyInfoInputs.cache
+C:\Users\Mateusz\Desktop\Enigma\Enigma.Logic\obj\Debug\netstandard2.0\Enigma.Logic.AssemblyInfo.cs
+C:\Users\Mateusz\Desktop\Enigma\Enigma.Logic\obj\Debug\netstandard2.0\Enigma.Logic.dll
+C:\Users\Mateusz\Desktop\Enigma\Enigma.Logic\obj\Debug\netstandard2.0\Enigma.Logic.pdb
